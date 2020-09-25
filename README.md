@@ -1,6 +1,6 @@
 # Working with twarc data
 
-Clone this repository to your local machine. In terminal/console wherever you want the 751-Fall20 folder to be located:
+After you have your jsonl file from from a twarc search, clone this repository to your local machine. In terminal/console wherever you want the 751-Fall20 folder to be located:
 
 `git clone [paste the url your copied from the code button above]`
 
