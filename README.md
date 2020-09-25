@@ -2,11 +2,11 @@
 
 Pull this repository to your local machine
 
-In the terminal/console, navigate to your local folder 751-Methods- then
+In the terminal/console, navigate to your local folder 751-Fall20 then
 
 `git pull`
 
-Put the twarc jsonl file you downloaded into the main 751-Methods- folder on your computer.
+Put the twarc jsonl file you downloaded into the main 751-Fall20 folder on your computer.
 
 To make it into a CVS file you can import into Google Sheets:
 
